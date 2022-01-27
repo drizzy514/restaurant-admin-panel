@@ -1,0 +1,31 @@
+.fastfood-food{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.complexes{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.time{
+    margin-left: 377px;
+}
+.title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.id{
+    margin-right: 124px;
+}
+
+.complexId{
+    margin-right: 262px;
+}
+.name{
+    margin-right: 100px;
+}
+.price{
+    margin-right: 262px;
+}
